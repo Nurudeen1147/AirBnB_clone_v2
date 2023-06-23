@@ -2,4 +2,4 @@
 
 The collaborators:
 1. Nurudeen Oyelowo
-2. 
+2. Chukwu Ifeanyi Emmanuel
